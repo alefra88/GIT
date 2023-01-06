@@ -1,0 +1,9 @@
+cd carpeta-repositorio
+mv .git/config ~/saved_git_config
+rm -rf .git
+git init
+git branch -M main
+git add .
+git commit -m "primer commit después del reseteo"
+mv ~/saved_git_config .git/config
+git push --force origin main
