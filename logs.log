@@ -1,3 +1,36 @@
+commit 49a589ff92bbc5c4515ea216b09f4450444f1739
+Merge: ff6c55a 097aeee
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Fri Jan 6 03:37:24 2023 -0600
+
+    Merge branch 'main' of https://github.com/alefra88/GIT
+
+commit ff6c55a92f861fcca3954417d476f50d9de68a5a
+Merge: 690b16a 16cd109
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Fri Jan 6 03:34:49 2023 -0600
+
+    Merge branch 'main' of https://github.com/alefra88/GIT
+
+commit 097aeee5d788f2fff72a48d70bd92f634679eb7d
+Merge: 690b16a 16cd109
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Fri Jan 6 03:34:49 2023 -0600
+
+    Merge branch 'main' of https://github.com/alefra88/GIT
+
+commit 690b16af9af597954befff738e9e0e5db7112fee
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Fri Jan 6 03:24:35 2023 -0600
+
+    agregamos unos archivos de texto
+
+commit 16cd109fb9e379af721b33aa4fe761089dcd8dfd
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Fri Jan 6 03:24:35 2023 -0600
+
+    agregamos unos archivos de texto
+
 commit 83618261d87dd70cf5fe8b6f3689c78bcfe59095
 Author: alefra88 <efra.rlz@gmail.com>
 Date:   Thu Jan 5 02:42:13 2023 -0600
