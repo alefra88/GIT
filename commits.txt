@@ -1,0 +1,106 @@
+commit 83618261d87dd70cf5fe8b6f3689c78bcfe59095
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Thu Jan 5 02:42:13 2023 -0600
+
+    agregando el segungado parrafo después del commit antes del push
+
+commit 074ce7381a0d3318ecd1b817e4d952d6ba51f27e
+Merge: a5be058 7c27889
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Thu Jan 5 02:39:09 2023 -0600
+
+    acá hubo un error de MERGING
+
+commit a5be0587ea8941f32a23c44e3db8a9ac83a7d405
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Thu Jan 5 02:24:42 2023 -0600
+
+    Agregando fecha de estaciones y borrando estacion papanatas
+
+commit 7c27889ba08247c8aeaa059c3a81016216103b63
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Thu Jan 5 02:24:42 2023 -0600
+
+    agregando lista de estaciones
+
+commit 4a881911e3371d0170d04f8eea5c0064b5f1e165
+Merge: 2c443d9 dde16f9
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Wed Jan 4 04:08:45 2023 -0600
+
+    resolviendo merge manual
+
+commit dde16f9da8549eff134915b3db46da8576098b50
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Wed Jan 4 02:17:18 2023 -0600
+
+    agregando scripts.js a html
+
+commit 2c443d9e810a1679e3317943b8f384eeebd44d90
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Wed Jan 4 02:12:40 2023 -0600
+
+    agregando style al html
+
+commit 3ea0508d850d41d4bf3ae6d97ab79bb17a0e12c5
+Merge: 7c74c68 f6a23a5
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Tue Jan 3 04:02:22 2023 -0600
+
+    Merge branch 'js'
+
+commit f6a23a5b7739793e982d9b43c0bf27c502866a04
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Tue Jan 3 03:59:01 2023 -0600
+
+    hello world!
+
+commit 6a9f5535ca615c15cbc45b4ec87ba684d6adefad
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Tue Jan 3 03:57:32 2023 -0600
+
+    code js
+
+commit 7c74c6832f35105bf1f6462a014d42c51e57476b
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Tue Jan 3 03:20:09 2023 -0600
+
+    metiendo un bonito fondo
+
+commit 4e7ebebd9dbcb177734a0af2f5038cadac9ed705
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Tue Jan 3 02:59:10 2023 -0600
+
+    Primer rama modificada ojo ahí xd
+
+commit d293d5230e052156df203e94ee4954ffa7663361
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Tue Jan 3 02:29:21 2023 -0600
+
+    probando gitignore
+
+commit 871e09261f4c47be060f1a7b50d09eb957acce3e
+Author: nolife <81286342+alefra88@users.noreply.github.com>
+Date:   Mon Jan 2 05:35:01 2023 -0600
+
+    creando licencia del repo
+    
+    licencia
+
+commit ec6218d99c7e035f5965ba461a439a8e9cf07ab7
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Mon Jan 2 04:48:39 2023 -0600
+
+    opa opa
+
+commit 61fe0a6a6a155ed13fe9ba308056335764d30a93
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Mon Jan 2 04:34:09 2023 -0600
+
+    opa opa
+
+commit 00e3a4a9acae011e5c12402a592de6a2dc874a0a
+Author: alefra88 <efra.rlz@gmail.com>
+Date:   Mon Jan 2 04:28:45 2023 -0600
+
+    opa :raising_hand_man:
